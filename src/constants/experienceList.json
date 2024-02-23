@@ -1,0 +1,23 @@
+[
+  {
+    "company": "Skinstric",
+    "role": "Software Developer (Frontend)",
+    "resps": [
+      "Led the 10-day (one sprint) Skinstric migration from WordPress to React",
+      "Improved maintainability resulted to 30% faster new feature upgrades. Reduced load time from 8 seconds to 4 seconds and 25% lower user bounce rate. o Enhanced site speed by 50%",
+      "Ran a number of A/B tests on new subscription models, product pricing, upsells, and downsells; these testing increased the lifetime value (LTV) by 23 percent.",
+      "Developed user-friendly React components and features and enhanced UX, lowering the CAC from $450 to $250. • Applied sophisticated SEO techniques, such as server-side rendering and keyword optimisation, which resulted in a 40% increase in organic traffic and raised the website's position on the first page of search results."
+    ],
+    "date": "Sep 2023 - Dec 2023"
+  },
+  {
+    "company": "Freelancer",
+    "role": "Software Developer (Frontend)",
+    "resps": [
+      "Provided tailored web solutions to SMEs, emphasising user-centricity and content accessibility",
+      "Seamlessly integrated APIs to link bank-end and front-end data pathways, ensuring smooth data flow and enhanced functionality",
+      "Developed responsive websites using HTML5, CSS3(+SCSS, BEM), JavaScript best practices"
+    ],
+    "date": "June 2023 - Sep 2023"
+  }
+]
